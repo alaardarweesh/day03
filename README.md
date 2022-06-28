@@ -1,3 +1,3 @@
 # day03
 Trying some issues
-Issuesss
+Issuesss and features
