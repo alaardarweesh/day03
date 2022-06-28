@@ -1,3 +1,4 @@
 # day03
 Trying some issues
-Issuesss and features
+Issues and features
+Trying Branch concept
